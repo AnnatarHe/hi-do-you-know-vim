@@ -1,0 +1,25 @@
+{
+  "name": "hi-do-you-know-vim",
+  "version": "1.0.0",
+  "description": "hi, 朋友，你听说过 vim 吗",
+  "main": "index.js",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  },
+  "scripts": {
+    "dev": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnatarHe/hi-do-you-know-vim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnatarHe/hi-do-you-know-vim/issues"
+  },
+  "homepage": "https://github.com/AnnatarHe/hi-do-you-know-vim#readme"
+}
